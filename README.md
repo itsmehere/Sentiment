@@ -1,6 +1,6 @@
 # Sentiment
 
-An AI that attempts to determine if a given sentence is positive or negative.
+An AI that attempts to determine the sentiment of a sentence.
 
 ## Usage:
 

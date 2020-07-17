@@ -8,6 +8,15 @@ An AI that attempts to determine if a given sentence is positive or negative.
 python sentiment.py corpus
 ```
 
+## Sample Output:
+
+```powershell
+C:\Users\mihir\Programming\Sentiment>python sentiment.py corpus
+s: fast delivery and excpetional packaging. The product works great!
+Positive: 0.9138
+Negative: 0.0862
+```
+
 ## Installation:
 
 Make sure you have `nltk` installed by doing:
